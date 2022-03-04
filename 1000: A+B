@@ -1,0 +1,10 @@
+#첫번째 방법
+A, B = map(int, input().split())
+print(A+B)
+
+#두번째 방법
+A = list(map(int, input().split()))
+print(A[0]+A[1])
+
+#세번째 방법
+print(sum(list(map(int, input().split()))))
