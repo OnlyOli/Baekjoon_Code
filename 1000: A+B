@@ -8,3 +8,6 @@ print(A[0]+A[1])
 
 #세번째 방법
 print(sum(list(map(int, input().split()))))
+
+#네번째 방법
+print(sum(map(int, input().split())))
