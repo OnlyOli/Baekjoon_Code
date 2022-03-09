@@ -1,9 +1,9 @@
 # Baekjoon_Code
-This is a push repository for Baekjoon Online Judge💻
+백준 코드 리포지토리 입니다💻
 
 ---
 
-## Content
+## 목차
 
 1. [print](#1.print)
 2. [variable](#2.variable)
