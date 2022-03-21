@@ -1,0 +1,11 @@
+A = list(map(int, input().split()))
+A.sort()
+
+if(A[0] == A[1] == A[2]):
+	print(10000 + (A[0] * 1000))
+
+elif(A[0] == A[1] or A[1] == A[2]):
+	print(1000 + (A[1] * 100))
+    
+else:
+	print(A[2] * 100)
